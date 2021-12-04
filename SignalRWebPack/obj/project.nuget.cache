@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJXH9SVh49dvcdyftBJBt5X49QSt1nGfX4q2iOojTT8qsWYAo1JiFORKCMqdqP4taSCUn161AMrqTF2hCRG1FQ==",
+  "success": true,
+  "projectFilePath": "/Users/suyapeng/Projects/Private/signalIR/SignalRWebPack/SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "/Users/suyapeng/.nuget/packages/microsoft.typescript.msbuild/4.5.2/microsoft.typescript.msbuild.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

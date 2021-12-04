@@ -1,0 +1,28 @@
+﻿@page "/todo"
+
+<h1>Todo (@todos.Count(todo => !todo.IsDone))</h1>
+
+@* 这里展示 *@
+<ul>
+    @foreach (var todo in todos) {
+        <input type="checkbox" @bind="todo.IsDone" />
+        <input @bind="todo.Title" />
+    }
+</ul>
+
+<input placeholder="Something todo"  @bind="newTodo"/>
+<button @onclick="AddTodo">Add todo</button>
+
+
+@code {
+    private List<TodoItem> todos = new List<TodoItem>(); // new 有个简化 9.0的c#版本才能用 这里替代写法
+    private string newTodo;
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = string.Empty;
+        }
+    }
+}

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1874C86B-AB51-4648-92C0-E3C21CB7C6A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Controllers/TodoItemsController.cs">
+    <Files>
+      <File FileName="TodoApi/Models/TodoItem.cs" Line="9" Column="43" />
+      <File FileName="TodoApi/Startup.cs" />
+      <File FileName="TodoApi/Models/TodoContext.cs" />
+      <File FileName="TodoApi/WeatherForecast.cs" />
+      <File FileName="TodoApi/Controllers/TodoItemsController.cs" Line="35" Column="1" />
+      <File FileName="TodoApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="TodoApi/Models/TodoItemDTO.cs" />
+      <File FileName="TodoApi/Properties/launchSettings.json" />
+      <File FileName="TodoApi/wwwroot/index.html" />
+      <File FileName="TodoApi/Program.cs" />
+      <File FileName="TodoApi/wwwroot/css/site.css" />
+      <File FileName="TodoApi/wwwroot/js/site.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True">
+            <Node name="TodoApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoItemsController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{B49509F9-5496-4BB6-AF70-315E79E995DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Startup.cs">
+    <Files>
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml.cs" Line="15" Column="6" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Index.cshtml" />
+      <File FileName="RazorPagesMovie/Pages/Shared/_Layout.cshtml" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml.cs" />
+      <File FileName="RazorPagesMovie/Program.cs" />
+      <File FileName="RazorPagesMovie/Models/SeedData.cs" />
+      <File FileName="RazorPagesMovie/Models/Movie.cs" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" />
+      <File FileName="RazorPagesMovie/Data/RazorPagesMovieContext.cs" />
+      <File FileName="RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="RazorPagesMovie/Pages/Privacy.cshtml" />
+      <File FileName="RazorPagesMovie/appsettings.json" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Edit.cshtml" />
+      <File FileName="RazorPagesMovie/Startup.cs" Line="30" Column="13" />
+      <File FileName="RazorPagesMovie/Pages/Index.cshtml.cs" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
